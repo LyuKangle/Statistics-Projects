@@ -1,2 +1,2 @@
-# statistics-projects
+# Statistics-Projects
 Here are some Capstone Projects.
